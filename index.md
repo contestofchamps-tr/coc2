@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage_special_phlow_magazin
+layout: frontpage
 title: "Phlow Magazin – Webdesign, Journalismus &amp; Social Media"
 header:
     image: start-webdesign-shutterstock-22768912.png
