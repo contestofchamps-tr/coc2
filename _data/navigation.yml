@@ -1,0 +1,39 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Themen
+  url: "#"
+  side: left
+  dropdown:
+  - title: WordPress
+    url: "/wordpress/"
+  - title: Texte Schreiben für das Web
+    url: "/text/"
+  - title: Bildbearbeitung
+    url: "/bild/"
+  - title: Webdesign
+    url: "/webdesign/"
+  - title: Social Media Specials
+    url: "/social-media/"
+
+- title: Videos
+  url: "http://phlow.tv"
+  side: left
+
+- title: Blog
+  url: "http://blog.phlow.de/"
+  side: left
+
+- title: "Suche"
+  url: "http://suche.phlow.de/"
+  side: right
+
+- title: "Über Uns"
+  url: "/info/"
+  side: right
+  dropdown:
+  - title: "Mission von Phlow Magazin"
+    url: "/info/"
+  - title: "Presskit, Logo, Phlow Brand"
+    url: "/ci/"
